@@ -1,0 +1,220 @@
+{
+  "id":"1.1",
+  "Question":"If you have been contracted to perform an attack against a target system, you are what typte of hacker?",
+  "Choices":{
+    "A":"White hat",
+    "B":"Grey hat",
+    "C":"Black hat",
+    "D":"Red hat"
+    },
+  "Answer":"A"
+}
+{
+  "id":"1.2",
+  "Question":"Which of the following describes an attacker who goes after a target to draw attention to a cause",
+  "Choices":{
+    "A":"Terrorist",
+    "B":"Criminal",
+    "C":"Hacktivist",
+    "D":"Script kiddie"
+    },
+  "Answer":"C"
+}
+{
+  "id":"1.3",
+  "Question":"What level of knowlegde about hacking does a script kiddie have?",
+  "Choices":{
+    "A":"Low",
+    "B":"Average",
+    "C":"High",
+    "D":"Advanced"
+    },
+  "Answer":"B",
+}
+{
+  "id":"1.4",
+  "Question":"Which of the following does an ethical hacker require to start evaluating a system?",
+  "Choices":{
+    "A":"Training",
+    "B":"Permission",
+    "C":"Panning",
+    "D":"Nothing"
+    },
+  "Answer":"B"
+}
+{
+  "id":"1.5",
+  "Question":"A white box test means the tester has which of the following?",
+  "Choices":{
+    "A":"No knowlegde",
+    "B":"Some knowlegde",
+    "C":"Complete knowlegde",
+    "D":"Permission"
+    },
+  "Answer":"C"
+}
+{
+  "id":"1.6",
+  "Question":"Which of the follwing describes a hacker who attacks without regard for being caught or punished",
+  "Choices":{
+    "A":"Hacktivist",
+    "B":"Terrorist",
+    "C":"Criminal",
+    "D":"Suicide hacker"
+    },
+  "Answer":"B"
+}
+{
+  "id":"1.7",
+  "Question":"Which of the following is the purpose of footprinting process?",
+  "Choices":{
+    "A":"Entering a system",
+    "B":"Coventing tracks",
+    "C":"Ecalating priviliges",
+    "D":"Gathering information"
+    },
+  "Answer":"D"
+}
+{
+  "id":"1.8",
+  "Question":"Which of the follwing forms are usually malicious?",
+  "Choices":{
+    "A":"Software applications",
+    "B":"Scripts",
+    "C":"Viruses",
+    "D":"Gray ware"
+    },
+  "Answer":"D"
+}
+{
+  "id":"1.9",
+  "Question":"What is a self-replicating piece of malware",
+  "Choices":{
+    "A":"A worm",
+    "B":"A virus",
+    "C":"A Trojan Horse",
+    "D":"A rootkit"
+    },
+  "Answer":"B"
+}
+{
+  "id":"1.10",
+  "Question":"What is a piece malware that relies on social engineering?",
+  "Choices":{
+    "A":"A worm",
+    "B":"A virus",
+    "C":"A Trojan Horse",
+    "D":"A rootkit"
+    },
+  "Answer":"A"
+}
+{
+  "id":"1.11",
+  "Question":"Which of the following best describes what a hacktivist does?",
+  "Choices":{
+    "A":"Defaces websites",
+    "B":"Perform social engineering",
+    "C":"Hacks for political reasons",
+    "D":"Hacks with basic skills"
+    },
+  "Answer":"C"
+}
+{
+  "id":"1.12",
+  "Question":"Which of the following best describes what a suicide hacker does?",
+  "Choices":{
+    "A":"Hacks with Permission",
+    "B":"Hacks without stealth",
+    "C":"Hacks without Permission",
+    "D":"Hacks with stealth"
+    },
+  "Answer":"C"
+}
+{
+  "id":"1.13",
+  "Question":"Which of the following best describes what a suicide hacker does?",
+  "Choices":{
+    "A":"Hacks with Permission",
+    "B":"Hacks without stealth",
+    "C":"Hacks without Permission",
+    "D":"Hacks with stealth"
+    },
+  "Answer":"C"
+}
+{
+  "id":"1.14",
+  "Question":"What separates a suicide hacker from other attackers?",
+  "Choices":{
+    "A":"A disregards for the law",
+    "B":"A desire to be helpful",
+    "C":"The intent to reform",
+    "D":"A lack of fear of being caught"
+    },
+  "Answer":"D"
+}
+{
+  "id":"1.15",
+  "Question":"Which of the following would most likely engage in the persuit of vulnerability research?",
+  "Choices":{
+    "A":"White hat",
+    "B":"Grey hat",
+    "C":"Black hat",
+    "D":"Suicide"
+    },
+  "Answer":"A"
+}
+{
+  "id":"1.16",
+  "Question":"Vulnerability research deals with which of the following?",
+  "Choices":{
+    "A":"Actively uncovering vulnerability",
+    "B":"Passively uncovering vulnerability",
+    "C":"Tesing theories",
+    "D":"Applying security guidance"
+    },
+  "Answer":"C"
+}
+{
+  "id":"1.17",
+  "Question":"How is black box testing performed?",
+  "Choices":{
+    "A":"With no knowlegde",
+    "B":"With full knowlegde",
+    "C":"With partial knowlegde",
+    "D":"By blak hat"
+    },
+  "Answer":"A"
+}
+{
+  "id":"1.18",
+  "Question":"A contract is important because it does what?",
+  "Choices":{
+    "A":"Gives permission",
+    "B":"Gives test parameters",
+    "C":"Gives proof",
+    "D":"Gives a mission"
+    },
+  "Answer":"A"
+}
+{
+  "id":"1.19",
+  "Question":"What does TOE stand for?",
+  "Choices":{
+    "A":"Target of evaluation",
+    "B":"Time of evaluation",
+    "C":"Type of evaluation",
+    "D":"Term of evaluation"
+    },
+  "Answer":"C"
+}
+{
+  "id":"1.20",
+  "Question":"Which of the follwing best describes a vulnerability?",
+  "Choices":{
+    "A":"A worm",
+    "B":"A virus",
+    "C":"A weakness",
+    "D":"A rootkit"
+    },
+  "Answer":"C"
+}
